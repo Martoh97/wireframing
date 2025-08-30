@@ -32,3 +32,15 @@ _Example: Placing a hero image at the top draws immediate attention to key infor
 
 Represents interactive components such as buttons, forms, and search bars.  
 _Example: A login form wireframe ensures the design supports essential user actions._
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+
+These are simple sketches or basic digital outlines that focus on structure and functionality rather than design details. They are quick to create and are typically used in the early stages of the design process to explore ideas and validate user flows.  
+_Example: A black-and-white sketch showing where navigation, content blocks, and buttons will be placed._
+
+### High-Fidelity Wireframes
+
+These are more detailed and polished versions that include typography, spacing, icons, and sometimes colors. They are used later in the design process to present a closer representation of the final product before moving to prototyping or development.  
+_Example: A detailed screen design with labeled navigation, content, and interactive elements styled according to brand guidelines._
